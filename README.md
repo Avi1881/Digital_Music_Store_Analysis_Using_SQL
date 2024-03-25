@@ -4,4 +4,3 @@ This project aims to analyze data from an online music store to assist the store
 <h2> Database and Tools </h2>
 1. Postgre SQL <br>
 2. PgAdmin4
-
